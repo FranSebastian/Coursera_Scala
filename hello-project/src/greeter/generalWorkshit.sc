@@ -1,7 +1,7 @@
 package greeter
 
 object generalWorkshit {
-  println("Welcome to the Scala worksheet 2")     //> Welcome to the Scala worksheet 2
+  println("Welcome to the Scala worksheet 3")     //> Welcome to the Scala worksheet 3
   
   val testint = 2+2                               //> testint  : Int = 4
   
@@ -11,4 +11,5 @@ object generalWorkshit {
   
   val y = List(5,2,1)                             //> y  : List[Int] = List(5, 2, 1)
   
+  def f = "Tests to syncr"                        //> f: => String
 }
