@@ -2,5 +2,5 @@ package greeter
 
 object Hello extends App {
   println("Hello, World!")
-  println("Commit tests")
+  println("Commit tests 2")
 }

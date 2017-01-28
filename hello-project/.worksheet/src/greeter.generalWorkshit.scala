@@ -1,7 +1,7 @@
 package greeter
 
-object generalWorkshit {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(85); 
-  println("Welcome to the Scala worksheet");$skip(23); 
+object generalWorkshit {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(87); 
+  println("Welcome to the Scala worksheet 2");$skip(23); 
   
   val testint = 2+2;System.out.println("""testint  : Int = """ + $show(testint ));$skip(15); 
   

@@ -1,7 +1,7 @@
 package greeter
 
 object generalWorkshit {
-  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  println("Welcome to the Scala worksheet 2")     //> Welcome to the Scala worksheet 2
   
   val testint = 2+2                               //> testint  : Int = 4
   
